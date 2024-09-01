@@ -2,13 +2,12 @@
 .env
 node_modules
 *.lock
-.vscode/
-.idea/
 coverage
 vercel_token
 
 # IDE
-.vscode
+.vscode/
+.idea/
 *.code-workspace
 
 .vercel
